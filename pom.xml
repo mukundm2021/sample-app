@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sample-app</name>
 	<description>sample  training project </description>
-
+	<!-- testing git stuff -->
 	<!--<packaging>war</packaging> -->
 
 	<properties>
